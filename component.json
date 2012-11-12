@@ -1,0 +1,15 @@
+{
+    "name": "gaia-tsort"
+  , "repo": "qualiancy/gaia-tsort"
+  , "version": "0.0.0"
+  , "description": "Topological sort utility for directed acyclic graphs."
+  , "license": "MIT"
+  , "keywords": [
+    ]
+  , "main": "lib/tsort.js"
+  , "scripts": [
+        "lib/tsort.js"
+    ]
+  , "dependencies": {}
+  , "development": {}
+}

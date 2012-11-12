@@ -1,0 +1,28 @@
+{
+    "name": "gaia-tsort"
+  , "version": "0.0.0"
+  , "description": "Topological sort utility for directed acyclic graphs."
+  , "author": "Jake Luer <jake@qualiancy.com> (http://qualiancy.com)"
+  , "license": "MIT"
+  , "keywords": [
+    ]
+  , "repository": {
+        "type": "git"
+      , "url": "git@github.com:qualiancy/gaia-tsort.git"
+    }
+  , "engines": {
+      "node": "*"
+    }
+  , "main": "./index"
+  , "scripts": {
+      "test": "make test"
+    }
+  , "dependencies": {
+    }
+  , "devDependencies": {
+        "chai": "*"
+      , "component": "*"
+      , "mocha": "*"
+      , "mocha-phantomjs": "*"
+    }
+}
