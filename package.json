@@ -1,6 +1,6 @@
 {
     "name": "gaia-tsort"
-  , "version": "0.0.0"
+  , "version": "0.1.0"
   , "description": "Topological sort utility for directed acyclic graphs."
   , "author": "Jake Luer <jake@qualiancy.com> (http://qualiancy.com)"
   , "license": "MIT"
