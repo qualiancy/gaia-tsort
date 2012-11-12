@@ -1,4 +1,4 @@
-# gaia-tsort
+# gaia-tsort [![Build Status](https://secure.travis-ci.org/qualiancy/gaia-tsort.png?branch=master)](https://travis-ci.org/qualiancy/gaia-tsort)
 
 > Topological sort utility for directed acyclic graphs.
 
